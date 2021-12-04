@@ -1,0 +1,2 @@
+# DS402
+嵌入式ARM端EtherCAT从站软件：基于Keil uVision5开发环境研发，完成了EtherCAT协议状态机和DS402伺服状态机，支持EtherCAT从站功能
